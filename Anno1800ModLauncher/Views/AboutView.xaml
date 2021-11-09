@@ -52,7 +52,7 @@
                 <LineBreak />- <Run Text="{DynamicResource AboutMessageRebuilt}"/> <Hyperlink NavigateUri="https://www.notion.so/Anno-1800-Mod-Manager-Wiki-60bbcd8ad9634c2faa225be3f1bd46d6" RequestNavigate="Hyperlink_RequestNavigate">
                     <TextBlock Text="{DynamicResource AboutMessageWikiText}"/>
                 </Hyperlink>
-                <LineBreak />- <Run Text="{DynamicResource AboutMessageContributors}"/> <Hyperlink NavigateUri="https://github.com/LemonDrop1228/anno1800-mod-manager" RequestNavigate="Hyperlink_RequestNavigate">
+                <LineBreak />- <Run Text="{DynamicResource AboutMessageContributors}"/> <Hyperlink NavigateUri="https://github.com/RebuiltStatue21/AMM-Source-Code" RequestNavigate="Hyperlink_RequestNavigate">
                     <TextBlock Text="{DynamicResource AboutMessageGithub}"/>
                 </Hyperlink>
             </TextBlock>
